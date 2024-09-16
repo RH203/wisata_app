@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_app/page/detail_screen.dart';
 import 'package:wisata_app/page/main_screen.dart';
 
 void main() {
